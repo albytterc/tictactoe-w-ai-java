@@ -1,2 +1,2 @@
 # tictactoe-w-ai-java
-Project from hyperskill.org
+My implementation of the project from hyperskill.org.
